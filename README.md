@@ -19,7 +19,7 @@ For Cold Steel II, make sure to download [my other mod](https://github.com/TheSh
 
 ### NOT RECOMMENDED METHOD
 If, for some reason, you can't or don't want to use SenPatcher, follow these steps:
-1. Go to the latest release ([here](https://github.com/TheShufflingFool/Basically-Extra-Social-Time/releases/latest)) and click on `Source code (zip)`.
+1. Go to the latest release ([here](https://github.com/TheShufflingFool/Basically-Extra-Social-Time/releases/latest)) and download `Source code (zip)`.
 2. Locate the game's main directory:
    * for Steam version, right-click on `The Legend of Heroes: Trails of Cold Steel (II/III/IV)` and select Manage → Browse local files
    * for GOG version, right-click on `The Legend of Heroes: Trails of Cold Steel (II/III/IV)` and select Manage installation → Show folder

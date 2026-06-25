@@ -3,7 +3,7 @@
 Mods for The Legend of Heroes: Trails of Cold Steel games that ensure it's possible to fully bond with all the characters.
 Tested on XSEED and NISA PC versions of the games.
 
-For Cold Steel II, make sure to download [my other mod](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt) for an even better experience.
+For Cold Steel II, make sure to download [B.R.U.H.](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt) for an even better experience.
 
 **<ins>TRAILS OF COLD STEEL III AND IV - TBD SOON™</ins>**
 

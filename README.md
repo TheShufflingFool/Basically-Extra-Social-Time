@@ -1,9 +1,19 @@
 # Basically Extra Social Time (B.E.S.T.)
 
-Mods for The Legend of Heroes: Trails of Cold Steel games that increase the number of bonding points available on the first playthrough.
+Mods for The Legend of Heroes: Trails of Cold Steel games that ensure it's possible to fully bond with all the characters.
 Tested on XSEED and NISA PC versions of the games.
 
 For Cold Steel II, make sure to download [my other mod](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt) for an even better experience.
+
+**<ins>TRAILS OF COLD STEEL III AND IV - TBD SOON™</ins>**
+
+## Features
+Features marked with **\[NG+]** are also available without the mod, when using a Clear Data save file to start New Game+. Features marked with **\[EN]** are only available when playing with text language set to English (sorry, I don't know Japanese).
+* **\[NG+]** increased the amount of available bonding points to ensure watching all bonding events is possible
+* increased the amount of available tickets for festival attractions - enough to spend time with each available character once - and adjusted daytime jumps accordingly (where applicable)
+* changed the cost of Max Bonding Points bonus option when starting New Game+ to 0
+* **\[EN]** updated the system messages to account for increased amounts of bonding points and tickets
+* **\[NG+]** unlocked an extra final bonding event option in CS1
 
 ## Installation
 
@@ -31,13 +41,10 @@ If, for some reason, you can't or don't want to use SenPatcher, follow these ste
 * **How do I know I installed the mod correctly?**  
   <ins>RECOMMENDED METHOD ONLY</ins>: You should see a new line regarding modded files in the main menu in the bottom right corner (or, if you have other mods and it was already there, the number of modded files should change). If it doesn't appear (or the number doesn't change), make sure you downloaded the correct file (you want the .p3a one, not any of the archives) and placed it inside the correct folder.
   <img width="1280" height="720" alt="bruh_installed" src="https://github.com/user-attachments/assets/6bc3aa58-ae1d-4d05-86aa-02d734efccfe" />
-  If you use other mods and the amount of bonding points doesn't change, it's highly likely there is a compatibility issue. You can try editing `order.txt` inside the `mods` folder and moving `ExtraBP_CS(1/2/3/4).p3a` to the top of the list. That should unlock the extra bonding points but might override changes from the other mods.
-
-* **Why should I use this mod? Isn't NG+ just better?**  
-  This mod's goal is simple - to offer a vanilla New Game experience while allowing to befriend all characters. NG+, even with no carry overs, changes certain aspects of the game - disabled tutorials, some extra items in certain shops (like the Zemurian Ore) or larger fish pools, to name a few. If you don't care about those, or an occasional spoiler, feel free to use someone's Clear Data save instead.
+  If you use other mods and the amount of bonding points/tickets doesn't change, it's highly likely there is a compatibility issue. You can try editing `order.txt` inside the `mods` folder and moving `ExtraBP_CS(1/2/3/4).p3a` to the top of the list. That should unlock the extra bonding points but might override changes from the other mods.
 
 * **I'm in the middle of my playthrough. Do I have to start a new game to use the mod?**  
-  No, it can be installed at any point. However, you want to do it BEFORE starting a free day - if you already received the bonding points, the mod won't work until the next time.
+  No, it can be installed at any point. However, you want to do it BEFORE starting a free day/festival - if you already received the bonding points/tickets, the mod won't work until the next time.
   
 * **Will this work on Steam Deck?**  
   As far as I know, yes. I don't own one so I can't test it myself but, seeing that other mods work on it, I don't see why this one wouldn't.
